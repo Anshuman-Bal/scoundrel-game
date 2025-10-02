@@ -28,9 +28,19 @@ Dive into the dungeon, battle fearsome monsters, equip powerful weapons, and fig
 
 ---
 
+## 🎲 Play Now!
+
+Ready to start your adventure? Click below to play Scoundrel directly in your browser—no setup required!
+
+<p align="center">
+<a href="https://scoundrel-game.streamlit.app/" style="font-size: 1.2em; font-weight: bold; color: #ffffff; background-color: #ff4b4b; padding: 10px 20px; border-radius: 5px; text-decoration: none;">🌟 Play Scoundrel Now! 🌟</a>
+</p>
+
+---
+
 ## 🚀 How to Run Locally
 
-Ready to explore the dungeon on your own machine? Follow these steps to get started.
+Want to run the game on your own machine? Follow these steps to get started.
 
 ### Prerequisites
 - Python 3.9 or higher
